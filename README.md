@@ -30,3 +30,10 @@ npm run build
 
 npm i -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
+npm i @formkit/vue
+npm i @formkit/themes
+$ npm i axios
+
+npm install -g json-server
+
+json-server --watch db.json --port 4000

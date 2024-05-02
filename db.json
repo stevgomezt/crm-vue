@@ -1,0 +1,31 @@
+{
+    "clientes": [
+        {
+            "nombre": "Juan",
+            "apellido": "Lopez",
+            "email": "ejemplo@ejemplo.com",
+            "telefono": "324-667-1593",
+            "empresa": "empresa",
+            "puesto": "puesto",
+            "id": 1
+        },
+        {
+            "nombre": "Adrian",
+            "apellido": "Gomez",
+            "email": "ejemplo@ejemplo.com",
+            "telefono": "324-667-1593",
+            "empresa": "empresa",
+            "puesto": "puesto",
+            "id": 2
+        },
+        {
+            "nombre": "Steven",
+            "apellido": "Gonzalez",
+            "email": "ejemplo@ejemplo.com",
+            "telefono": "324-667-1593",
+            "empresa": "empresa",
+            "puesto": "puesto",
+            "id": 3
+        }
+    ]
+}
