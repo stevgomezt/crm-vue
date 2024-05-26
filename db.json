@@ -8,6 +8,16 @@
       "telefono": "111-222-3333",
       "empresa": "empresa",
       "puesto": "puesto act",
+      "estado": false
+    },
+    {
+      "id": "cceb",
+      "nombre": "steven",
+      "apellido": "gomez",
+      "email": "stevgomezt@gmail.com",
+      "telefono": "111-111-1111",
+      "empresa": "empresa",
+      "puesto": "puesto",
       "estado": 1
     }
   ]
